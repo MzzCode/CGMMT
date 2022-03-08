@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
-int main()
+void main()
 {
 int xc,yc,x,y,r,gd=DETECT,gm,d;
 initgraph(&gd,&gm,"c:\\turboc3\\bgi");
